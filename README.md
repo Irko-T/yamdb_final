@@ -1,6 +1,6 @@
-![YaMDb workflow](https://github.com/Irko-T/yamdb_final/actions/workflows/yamdb_workflows.yml/badge.svg)
-
 # YaMDb
+
+![YaMDb workflow](https://github.com/Irko-T/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 ## Описание проекта
 
